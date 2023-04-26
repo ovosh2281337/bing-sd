@@ -12,7 +12,8 @@ Prompt Engineering Intro
 This is an example of prompt and corresponding to the correct prompt structure:
 Funko pop superman ﬁgurine, made of plastic, product studio shot, on a white background, diffused lighting, centered.
 
-Prompt keyword weighting is supported. You can increase the attention of a keyword but not higher than 1.5. Use the format (example:weight). By default, words have a coefficient of 1 (example: 0.4), they will have a lower priority.
+Prompt keyword weighting is supported. You can increase the attention of a keyword but not higher than 1.5. 
+Use the format (example:weight). By default, words have a coefficient of 1 (example: 0.4), they will have a lower priority.
 
 Attention for words Technique:
 Adding "()" in the prompt increases attention to enclosed words, while "[]" decreases it. You can combine multiple modifiers: 
@@ -32,10 +33,15 @@ Start by asking a list of questions
 2. What’s the subject of the photo? Person? An animal or perhaps a landscape?
 3. What details do you want to add?
 a) Special Lighting. Soft, ambient, ring light, neon
+
 b) Environment. Indoor, outdoor, underwater, in space
+
 c) Color Scheme. Vibrant, dark, pastel
+
 e) Point of view. Front, Overhead, Side
+
 f) Background. Solid color, nebula, forest
+
 4. In a specific art style? 3D render, studio ghibli, movie poster
 5. A specific photo type? Macro, telephoto
 
@@ -47,23 +53,29 @@ Answer the following questions:
 2. What’s the subject of the photo? Person. animal, landscape. => a goldendoodle
 3. In a certain camera position? side view, from bottom, from above, from behind => from behind
 4. What details do you want to be added? => suit
+
 a. Special Lighting. Soft, ambient, ring light, neon => natural light
+
 b. Environment. Indoor, outdoor, underwater, in space => in the sky
+
 c. Color Scheme. Vibrant, dark, pastel => with bright colors
+
 5. In specific art style? 3D render, studio ghibli, movie poster => by Studio Ghibli
 
 The order of words is important
 The order and presentation of our desired output is almost as an important aspect as the vocabulary itself. It is recommended to list your concepts explicitly and separately than trying to cramp it into one simple sentence.
 
 The keyword categories are:
-Subject: what you want to see in the image, such as a person, an object, a scene, etc.
-Medium: the material used to make the artwork, such as illustration, oil painting, realistic, anime, 3D rendering, etc.
-Style: the artistic style of the image, such as impressionist, surrealist, pop art, etc.
-Artist: the name of a specific artist or multiple artists whose style you want to emulate or blend.
-Website: the name of a niche graphic website that aggregates images of a certain genre, such as Artstation or Deviant Art.
-Additional details: any other modifiers that can enhance the image, such as sci-fi, stunningly beautiful, dystopian, etc.
-Color: the overall color or tone of the image, such as iridescent gold, pastel pink, etc.
-Lighting: the effect of light and shadow on the image, such as cinematic lighting, soft lighting, dark, dark shot,  bright, etc.
+
+1. Subject: what you want to see in the image, such as a person, an object, a scene, etc.
+2. Medium: the material used to make the artwork, such as illustration, oil painting, realistic, anime, 3D rendering, etc.
+3. Style: the artistic style of the image, such as impressionist, surrealist, pop art, etc.
+4. Artist: the name of a specific artist or multiple artists whose style you want to emulate or blend.
+5. Website: the name of a niche graphic website that aggregates images of a certain genre, such as Artstation or Deviant Art.
+6. Additional details: any other modifiers that can enhance the image, such as sci-fi, stunningly beautiful, dystopian, etc.
+7. Color: the overall color or tone of the image, such as iridescent gold, pastel pink, etc.
+8. Lighting: the effect of light and shadow on the image, such as cinematic lighting, soft lighting, dark, dark shot,  bright, etc.
+
 You don’t have to include keywords from all categories. You can use them as a checklist to remind you what could be used. 
 
 
@@ -72,11 +84,17 @@ You don’t have to include keywords from all categories. You can use them as a 
 Here are completely universal styles that you can combine and use in your prompt:
 
 Keywords for natural skin: (natural skin texture: 1.2), (hyperrealism:1.2), (soft light:1.2), (sharp:1.2)
+
 Keywords for gloomy style: complex background, stuff in the background, highly detailed, (gloomy:1.3), dark, dimmed, hdr, vignette, grimy, (slate atmosphere:0.8)
+
 Keywords for horror cinematic style: slate atmosphere, cinematic, dimmed colors, dark shot, muted colors, film grainy, lut, spooky
+
 Keywords for Cinematic art style: art by greg rutkowski, art by artgerm, soft cinematic light, adobe lightroom, photolab, hdr, intricate, highly detailed, (depth of field:1.4)
+
 Keywords for Professional photo: (dark shot:1.4), 80mm,  soft light, sharp, exposure blend, medium shot, bokeh, (hdr:1.4), high contrast, (cinematic, teal and orange:0.85), (muted colors, dim colors, soothing tones:1.3), low saturation, (hyperdetailed:1.2), (noir:0.4)
+
 Keywords for Engraving style: (grayscale, woodcut:1.2), (etching:1.1), (engraving:0.2), detailed
+
 Keywords for Painting: rutkowski, intricate digital art, soothing tones, (cartoon:0.3), (art:1.4), epic realistic, faded, neutral colors, (hdr:1.4), (muted colors:1.4), (intricate), (artstation:1.5), dramatic, intricate details, (technicolor:0.9), detailed, intricate, cinematic, detailed
 
 
