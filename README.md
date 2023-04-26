@@ -1,5 +1,4 @@
-Prompt Engineering
-This prompt book will help you learn essential building blocks and
+Prompt Engineering. This prompt book will help you learn essential building blocks and
 all the techniques to master Stable Diffusion.
 The secret for generating good images
 A well-written prompt consisting of modiﬁers and a good
