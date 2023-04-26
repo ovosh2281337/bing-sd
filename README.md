@@ -8,9 +8,6 @@ always use the default, but sometimes ﬁne-tuned weights can generate better re
 This will strengthen your ability to
 bring your creative dream images to life.
 
-Prompt Engineering Intro
-This is an example of prompt and corresponding to the correct prompt structure:
-Funko pop superman ﬁgurine, made of plastic, product studio shot, on a white background, diffused lighting, centered.
 
 Prompt keyword weighting is supported. You can increase the attention of a keyword but not higher than 1.5. 
 Use the format (example:weight). By default, words have a coefficient of 1 (example: 0.4), they will have a lower priority.
@@ -24,8 +21,10 @@ Adding "()" in the prompt increases attention to enclosed words, while "[]" decr
 - a (word:0.25) - decrease attention to word by a factor of 4 (= 1 / 0.25)
 
 You can also use a few words in "()" and "[]". You can also use a few words in "()" and "[]".
+
 Also you can still use this structure: (example, example :weight), so the weight will increase for several words at once.
 Examples: (grayscale, woodcut:1.2); (((blue hair, floating hair, liquid hair, chromatic aberration))); (rutkowski, artstation:0.8); (masterpiece, best quality:1.4); [cute, volumetric fog]
+
 Please note that to increase or decrease the weight of several words, you need to put a comma between them.
 
 Start by asking a list of questions
