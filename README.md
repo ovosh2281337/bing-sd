@@ -76,9 +76,9 @@ The keyword categories are:
 8. Lighting: the effect of light and shadow on the image, such as cinematic lighting, soft lighting, dark, dark shot,  bright, etc.
 
 You don’t have to include keywords from all categories. You can use them as a checklist to remind you what could be used. 
-
-
-
+ 
+ 
+ 
 Here are completely universal styles that you can combine and use in your prompt(I highly recommend using them!):
 
 Keywords for natural skin: (natural skin texture: 1.2), (hyperrealism:1.2), (soft light:1.2), (sharp:1.2)
