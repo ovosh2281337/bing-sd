@@ -74,7 +74,6 @@ The keyword categories are:
 6. Additional details: any other modifiers that can enhance the image, such as sci-fi, stunningly beautiful, dystopian, etc.
 7. Color: the overall color or tone of the image, such as iridescent gold, pastel pink, etc.
 8. Lighting: the effect of light and shadow on the image, such as cinematic lighting, soft lighting, dark, dark shot,  bright, etc.
-
 You don’t have to include keywords from all categories. You can use them as a checklist to remind you what could be used. 
 
 
@@ -94,8 +93,8 @@ Keywords for Professional photo: (dark shot:1.4), 80mm,  soft light, sharp, expo
 Keywords for Engraving style: (grayscale, woodcut:1.2), (etching:1.1), (engraving:0.2), detailed
 
 Keywords for Painting: rutkowski, intricate digital art, soothing tones, (cartoon:0.3), (art:1.4), epic realistic, faded, neutral colors, (hdr:1.4), (muted colors:1.4), (intricate), (artstation:1.5), dramatic, intricate details, (technicolor:0.9), detailed, intricate, cinematic, detailed
-
-
+ 
+ 
 examples of works: 
 
 realistic prompt: RAW photo, girl, 22 years old, upper body, selfie in a car, blue hoodie,(1girl), (realistic), (photo-realistic:1.5), inside a car, driving, lipstick, freckles, (short hair), multicolor hair, necklace, (RAW photo, 8k uhd, film grain), Sharp Eyeliner, Blush Eyeshadow With Thick Eyelashes, extremely delicate and beautiful, 8k, soft lighting, high quality, highres, sharp focus, extremely detailed, during the day, (sunlight on face), beautiful detailed eyes, extremely detailed eyes and face, masterpiece, cinematic lighting, (high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, film grain, Fujifilm XT3
