@@ -97,7 +97,7 @@ Keywords for Engraving style: (grayscale, woodcut:1.2), (etching:1.1), (engravin
 Keywords for Painting: rutkowski, intricate digital art, soothing tones, (cartoon:0.3), (art:1.4), epic realistic, faded, neutral colors, (hdr:1.4), (muted colors:1.4), (intricate), (artstation:1.5), dramatic, intricate details, (technicolor:0.9), detailed, intricate, cinematic, detailed
 
 
-examples of works:
+examples of works: 
 
 realistic prompt: RAW photo, girl, 22 years old, upper body, selfie in a car, blue hoodie,(1girl), (realistic), (photo-realistic:1.5), inside a car, driving, lipstick, freckles, (short hair), multicolor hair, necklace, (RAW photo, 8k uhd, film grain), Sharp Eyeliner, Blush Eyeshadow With Thick Eyelashes, extremely delicate and beautiful, 8k, soft lighting, high quality, highres, sharp focus, extremely detailed, during the day, (sunlight on face), beautiful detailed eyes, extremely detailed eyes and face, masterpiece, cinematic lighting, (high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, film grain, Fujifilm XT3
 
