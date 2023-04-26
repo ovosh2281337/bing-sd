@@ -74,6 +74,7 @@ The keyword categories are:
 6. Additional details: any other modifiers that can enhance the image, such as sci-fi, stunningly beautiful, dystopian, etc.
 7. Color: the overall color or tone of the image, such as iridescent gold, pastel pink, etc.
 8. Lighting: the effect of light and shadow on the image, such as cinematic lighting, soft lighting, dark, dark shot,  bright, etc.
+
 You don’t have to include keywords from all categories. You can use them as a checklist to remind you what could be used. 
 
 
