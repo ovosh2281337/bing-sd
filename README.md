@@ -80,7 +80,7 @@ You don’t have to include keywords from all categories. You can use them as a 
 
 
 
-Here are completely universal styles that you can combine and use in your prompt:
+Here are completely universal styles that you can combine and use in your prompt(I highly recommend using them!):
 
 Keywords for natural skin: (natural skin texture: 1.2), (hyperrealism:1.2), (soft light:1.2), (sharp:1.2)
 
