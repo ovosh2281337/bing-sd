@@ -100,7 +100,7 @@ examples of works:
 
 realistic prompt: RAW photo, girl, 22 years old, upper body, selfie in a car, blue hoodie,(1girl), (realistic), (photo-realistic:1.5), inside a car, driving, lipstick, freckles, (short hair), multicolor hair, necklace, (RAW photo, 8k uhd, film grain), Sharp Eyeliner, Blush Eyeshadow With Thick Eyelashes, extremely delicate and beautiful, 8k, soft lighting, high quality, highres, sharp focus, extremely detailed, during the day, (sunlight on face), beautiful detailed eyes, extremely detailed eyes and face, masterpiece, cinematic lighting, (high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, film grain, Fujifilm XT3
 
-realistic prompt: fashion photography portrait of blue human avatar, in blue lush jungle with flowers and birds, 3d render, cgi, symetrical, octane render, 35mm, bokeh, 9:16, (intricate details:1.12), hdr, (intricate details, hyperdetailed:1.15), (natural skin texture, hyperrealism, soft light, sharp:1.2)
+realistic prompt: fashion photography portrait of blue human avatar, in blue lush jungle with flowers and birds, 3d render, cgi, symetrical, octane render, 35mm, bokeh, (intricate details:1.12), hdr, (intricate details, hyperdetailed:1.15), (natural skin texture, hyperrealism, soft light, sharp:1.2)
 
 realistic prompt: foxie european woman, ginger hair, winter forest, natural skin texture, 24mm, 4k textures, soft cinematic light, adobe lightroom, photolab, hdr, intricate, elegant, highly detailed, sharp focus, ((((cinematic look)))), soothing tones, insane details, intricate details, hyperdetailed, low contrast, soft cinematic light, dim colors, exposure blend, hdr, faded
 
@@ -220,19 +220,19 @@ Photography
 
 Photography Prompt - Mix and Match!
 
-Shot type- Close-up; Extreme Close-up; POV; Medium shot; Long shot;
+Shot type- Close-up; Extreme Close-up; POV; Medium shot; Long shot; At a distance;
 
-Style- polaroid; Tilt-shift; Color splash; Monochrome;
+Style- polaroid; Tilt-shift; Color splash; Monochrome; white and black
 
 Subject- Woman; Old man; Grey cat; Bunny; Ferrari;
  
-Lighting- Cinematic; Sun; Ring; Ambient; Soft;
+Lighting- Cinematic light; Sun light; Ambient light; Soft light; moonlight; dramatic light
 
 Context- Indoor; Outdoor; At night; In the park; Studio;
 
-Lens- Wide-angle; Telephoto; 24mm; EF 70mm; Bokeh;
+Lens- Wide-angle; Telephoto; 24mm; EF 70mm; Bokeh; F/1.4; 50mm
 
-Device-iPhone X; CCTV; Nikon Z FX; Canon; Gopro;
+Device-iPhone X; CCTV; Nikon Z FX; Canon; Gopro; Fujifilm XT3 
 
 Photography Styles
 Polaroid -child,  sitting, wide empty city street, in the middle, his back to the camera, symmetrical, polaroid photography, highly detailed, crisp quality
@@ -246,20 +246,9 @@ Photography Styles
 
 Portrait- Portrait, storm trooper with his beautiful wife on his wedding day
 
-Color-Splash- Color splash wide photo of red phone booth in the middle of empty street, detailed, mist, soft vignette
+Color-Splash- Color splash, wide photo, phone booth in the middle of empty street, detailed, mist, soft vignette
 
 Monochrome- Photo of staircase in abandoned building, symmetrical, monochrome photography, highly detailed, crisp quality and light reflections, 100mm lens
-
-
-
-Cameras
-Gopro- Monkey swimming, Gopro footage
-
-CCTV- Darth Vader at a convenience store, pushing shopping cart, CCTV still, high-angle security camera feed
-
-Drone- Drone photo of Tokyo, city center
-
-Thermal -Thermal camera footage from a helicopter, war scene
 
 
 
