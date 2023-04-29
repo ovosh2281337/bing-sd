@@ -221,91 +221,73 @@ Photography
 Photography Prompt - Mix and Match!
 
 Shot type- Close-up; Extreme Close-up; POV; Medium shot; Long shot; At a distance;
-Style- polaroid; Tilt-shift; Color splash; Monochrome; white and black
+Style- polaroid; Tilt-shift; Color splash; Monochrome; white and black;
 Subject- Woman; Old man; Grey cat; Bunny; Ferrari;
-Lighting- Cinematic light; Sun light; Ambient light; Soft light; moonlight; dramatic light
+Lighting- Cinematic light; Sun light; Ambient light; Soft light; moonlight; dramatic light;
 Context- Indoor; Outdoor; At night; In the park; Studio;
-Lens- Wide-angle; Telephoto; 24mm; EF 70mm; Bokeh; F/1.4; 50mm
-Device-iPhone X; CCTV; Nikon Z FX; Canon; Gopro; Fujifilm XT3 
+Lens- Wide-angle; Telephoto; 24mm; EF 70mm; Bokeh; F/1.4; 50mm;
+Device-iPhone X; CCTV; Nikon Z FX; Canon; Gopro; Fujifilm XT3 ;
 
 Photography Styles
 
-Polaroid -child,  sitting, wide empty city street, in the middle, his back to the camera, symmetrical, polaroid photography, highly detailed, crisp quality
-Tilt-Shift- photo of construction site, workers, tilt shift effect, bokeh, Nikon
-Product Shot- Product shot of nike shoes, with soft vibrant colors, 3d blender render, modular constructivism, blue background, physically based rendering, centered
-Long Exposure - An aerial view, city at night, long exposure, instagram contest
+Polaroid -child,  sitting, wide empty city street, in the middle, his back to the camera, symmetrical, polaroid photography, highly detailed, crisp quality;
+Tilt-Shift- photo of construction site, workers, tilt shift effect, bokeh, Nikon;
+Product Shot- Product shot of nike shoes, with soft vibrant colors, 3d blender render, modular constructivism, blue background, physically based rendering, centered;
+Long Exposure - An aerial view, city at night, long exposure, instagram contest;
 
 Photography Styles
 
-Portrait- Portrait, storm trooper with his beautiful wife on his wedding day
-Color-Splash- Color splash, wide photo, phone booth in the middle of empty street, detailed, mist, soft vignette
-Monochrome- Photo of staircase in abandoned building, symmetrical, monochrome photography, highly detailed, crisp quality and light reflections, 100mm lens
+Portrait- Portrait, storm trooper with his beautiful wife on his wedding day;
+Color-Splash- Color splash, wide photo, phone booth in the middle of empty street, detailed, mist, soft vignette;
+Monochrome- Photo of staircase in abandoned building, symmetrical, monochrome photography, highly detailed, crisp quality and light reflections, 100mm lens;
 
 
 
 Lenses
-Telephoto- Alligator emerging from water, telephoto lens
+Telephoto- Alligator emerging from water, telephoto lens;
 
-Fish-eye- Night club, people dancing, Fish-eye lens
+Fish-eye- Night club, people dancing, Fish-eye lens;
 
-800mm- Photo of hummingbird, 800mm lens
+800mm- Photo of hummingbird, 800mm lens;
 
-Macro- ladybug, macro lens
+Macro- ladybug, macro lens;
 
 
 
 Lighting
 
-Nostalgic- Fallout concept art, school interior, 3d render, grim, nostalgic lighting, unreal engine 5
+Nostalgic- Fallout concept art, school interior, 3d render, grim, nostalgic lighting, unreal engine 5;
 
-Purple Neon- Fallout concept art, school interior, 3d render, grim, realistic, realistic purple neon lighting, unreal engine 5
+Purple Neon- Fallout concept art, school interior, 3d render, grim, realistic, realistic purple neon lighting, unreal engine 5;
 
-Sun Rays- Fallout concept art, school interior, 3d render, grim, sun rays, sun rays coming through window, unreal engine 5
+Sun Rays- Fallout concept art, school interior, 3d render, grim, sun rays, sun rays coming through window, unreal engine 5;
 
 
 
 
 Art Mediums
 
-Chalk- walter white, sidewalk painting, chalk
-
-Graffiti- graffiti art, astronaut holding a super soaker
-
-Water Colors- sunset behind mountains, painting, water colors, detailed, vaporwave aesthetic
-
-Oil Painting- Oil painting, Rick Sanchez, contest winner
-
-Fabric- Crochet doll of Spiderman, studio lighting
-
-Pencil Drawing- Emma Watson, pencil painting
-
-Wood- Modern table design,  made of wood, studio lighting 
-
-Clay- Clay model, throne from Game of Thrones
-
-Amigurumi - amigurumi, European woman, casual dressed
+Chalk- walter white, sidewalk painting, chalk;
+Graffiti- graffiti art, astronaut holding a super soaker;
+Water Colors- sunset behind mountains, painting, water colors, detailed, vaporwave aesthetic;
+Oil Painting- Oil painting, Rick Sanchez, contest winner;
+Fabric- Crochet doll of Spiderman, studio lighting;
+Pencil Drawing- Emma Watson, pencil painting;
+Wood- Modern table design,  made of wood, studio lighting;
+Clay- Clay model, throne from Game of Thrones;
+Amigurumi - amigurumi, European woman, casual dressed;
 when using amigurumi, ANY thing will become knitted/woven. Even an apple (or a tree or a girl or something else) will be knitted
-
-
 
 
 List of artists by style
 
-Portrait- Derek Gores, Miles Aldridge, Jean Baptiste-Carpeaux, Anne-Louis Girodet
-
-Landscape- Alejandro Bursido, Jacques-Laurent Agasse, Andreas Achenbach, Cuno Amiet
-
-Horror- H.R.Giger, Tim Burton, Andy Fairhurst, Zdzislaw Beksinski
-
-Anime- Makoto Shinkai, Katsuhiro Otomo, Masashi Kishimoto, Kentaro Miura
-
-Sci-fi- Chesley Bonestell, Karel Thole, Jim Burns, Enki Bilal
-
-Photography- Ansel Adams, Ray Earnes, Peter Kemp, Ruth Bernhard
-
-Concept artists (video game)- Emerson Tung, Shaddy Safadi, Kentaro Miura
-
-
+Portrait- Derek Gores, Miles Aldridge, Jean Baptiste-Carpeaux, Anne-Louis Girodet;
+Landscape- Alejandro Bursido, Jacques-Laurent Agasse, Andreas Achenbach, Cuno Amiet;
+Horror- H.R.Giger, Tim Burton, Andy Fairhurst, Zdzislaw Beksinski;
+Anime- Makoto Shinkai, Katsuhiro Otomo, Masashi Kishimoto, Kentaro Miura;
+Sci-fi- Chesley Bonestell, Karel Thole, Jim Burns, Enki Bilal;
+Photography- Ansel Adams, Ray Earnes, Peter Kemp, Ruth Bernhard;
+Concept artists (video game)- Emerson Tung, Shaddy Safadi, Kentaro Miura;
 
 
 Portrait Artists
@@ -340,47 +322,49 @@ character designs
 3D illustrations
 Stable diffusion can be used to create any 3D scene or object you can imagine!
 
-Isometric assets- isometric kitchen in a cutaway box, isometric,  tiny, cute, soft smooth lighting, soft colors, 100mm lens, 3d blender render
-Low Poly- kawaii, low poly, squirrel character, 3d isometric render, white background, ambient occlusion, unity engine
-Pixar Renders- 3d fluffy Lion, close-up, cute, adorable, cute big circular reflective eyes, long fuzzy fur, Pixar render, unreal engine, cinematic, intricate detail, cinematic
-3D Item Render- isometric Alarm Clock, isometric, tiny, soft smooth lighting, soft colors, 3d blender render, trending on polycount, modular constructivism, physically based rendering
+Isometric assets- isometric kitchen in a cutaway box, isometric,  tiny, cute, soft smooth lighting, soft colors, 100mm lens, 3d blender render;
+Low Poly- kawaii, low poly, squirrel character, 3d isometric render, white background, ambient occlusion, unity engine;
+Pixar Renders- 3d fluffy Lion, close-up, cute, adorable, cute big circular reflective eyes, long fuzzy fur, Pixar render, unreal engine, cinematic, intricate detail, cinematic;
+3D Item Render- isometric Alarm Clock, isometric, tiny, soft smooth lighting, soft colors, 3d blender render, trending on polycount, modular constructivism, physically based rendering;
 
 More illustrations
 
-Vector- living room, vector illustration, Flat Style, pastel color palette
-Comic- Retro comic style artwork, benedict cumberbatch, highly detailed, comic book cover, symmetrical, vibrant
-Caricature- Caricature art, spiderman, sitting , chair, drinking beer, on Charlie Hebdo
-Propaganda- Poster, USSR propaganda poster, Eat Oreo!
-Psychedelic Art- dear face, Hypnotic illustration, hypnotic psychedelic art, by Dan Mumford, pop surrealism, dark glow neon mystical, Behance
-Splash Art- mage, channeling arcane magicks, armored, Splash art, mana shooting from his hands, mystical energy in the air, action shot, heroic fantasy art, special effects, hd octane render
-Stickers- Die-cut sticker, Cute, kawaii, Goldendoodle character, sticker, white background, illustration minimalism, vector, pastel colors
+Vector- living room, vector illustration, Flat Style, pastel color palette;
+Comic- Retro comic style artwork, benedict cumberbatch, highly detailed, comic book cover, symmetrical, vibrant;
+Caricature- Caricature art, spiderman, sitting , chair, drinking beer, on Charlie Hebdo;
+Propaganda- Poster, USSR propaganda poster, Eat Oreo!;
+Psychedelic Art- dear face, Hypnotic illustration, hypnotic psychedelic art, by Dan Mumford, pop surrealism, dark glow neon mystical, Behance;
+Splash Art- mage, channeling arcane magicks, armored, Splash art, mana shooting from his hands, mystical energy in the air, action shot, heroic fantasy art, special effects, hd octane render;
+Stickers- Die-cut sticker, Cute, kawaii, Goldendoodle character, sticker, white background, illustration minimalism, vector, pastel colors;
+
 Simple feelings modifiers can set the atmosphere of the scene!
 Positive emotions
-Cosy- Cosy vintage bedroom, octane render, by weta digital, exotic colorful pastel, ray traced lighting, reflections
-Romantic- couple shopping, romantic lighting
-Joyful- Joyful, husky puppy, splashing water, canon eos r3
-Energetic- Energetic painting, pool with flamingos
-Hope- Woman, filled with hope, beautiful dress, running, beach
-Lust- couple, Painting, filled with lust, by mike mignola
-Peaceful- Japanese city street, peaceful, dreamy, soft colors, studio ghibli style
-Satisfaction- Old man, looking at viewer, filled with satisfaction, Canon EOS 5D Mark IV
+
+Cosy- Cosy vintage bedroom, octane render, by weta digital, exotic colorful pastel, ray traced lighting, reflections;
+Romantic- couple shopping, romantic lighting;
+Joyful- Joyful, husky puppy, splashing water, canon eos r3;
+Energetic- Energetic painting, pool with flamingos;
+Hope- Woman, filled with hope, beautiful dress, running, beach;
+Lust- couple, Painting, filled with lust, by mike mignola;
+Peaceful- Japanese city street, peaceful, dreamy, soft colors, studio ghibli style;
+Satisfaction- Old man, looking at viewer, filled with satisfaction, Canon EOS 5D Mark IV;
 
 Negative emotions
 
-Depressing- Depressing photo, futuristic park
-Loneliness- Girl, sitting in window, reading a book, loneliness
-Grim- lake with ducks, grim painting
-Regret- man, looking at viewer, painting, filled with regret
-Suffering- woman, suffering, sitting on a bench, forest, Digital painting, by goro fujita
-Hopelessness- Man, hopelessness, black and white, looking at viewer, sketch, intricate details
-Fear- Child running towards the camera, in fear, by atey ghailan, by mike mignola
-Vibrant keywords: Weirdcore, Acidwave, Dreamcore, Vaporwave
+Depressing- Depressing photo, futuristic park;
+Loneliness- Girl, sitting in window, reading a book, loneliness;
+Grim- lake with ducks, grim painting;
+Regret- man, looking at viewer, painting, filled with regret;
+Suffering- woman, suffering, sitting on a bench, forest, Digital painting, by goro fujita;
+Hopelessness- Man, hopelessness, black and white, looking at viewer, sketch, intricate details;
+Fear- Child running towards the camera, in fear, by atey ghailan, by mike mignola;
+Vibrant keywords: Weirdcore, Acidwave, Dreamcore, Vaporwave;
 
 Gloomy: 
-Liminal Space- Flooded, liminal space,underground city carpark, lighting with lensflares, photorealistic 8k, eerie
-After Hours- After hours, stairs to the park, complex background, stuff in the background, highly detailed, (gloomy:1.3), dark, dimmed, hdr, vignette, grimy, (slate atmosphere:0.8)
-Brutalism- Building, architecture, brutalism 
-Post-Apocalyptic- Post-Apocalyptic town, houses, cars
+Liminal Space- Flooded, liminal space,underground city carpark, lighting with lensflares, photorealistic 8k, eerie;
+After Hours- After hours, stairs to the park, complex background, stuff in the background, highly detailed, (gloomy:1.3), dark, dimmed, hdr, vignette, grimy, (slate atmosphere:0.8);
+Brutalism- Building, architecture, brutalism;
+Post-Apocalyptic- Post-Apocalyptic town, houses, cars;
 
 Magic words:
 
