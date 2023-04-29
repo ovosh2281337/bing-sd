@@ -292,6 +292,9 @@ Wood- Modern table design,  made of wood, studio lighting
 
 Clay- Clay model, throne from Game of Thrones
 
+amigurumi - amigurumi, European woman, casual dressed
+when using amigurumi, ANY thing will become knitted/woven. Even an apple (or a tree or a girl or something else) will be knitted
+
 
 
 
