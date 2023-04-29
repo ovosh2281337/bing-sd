@@ -81,15 +81,17 @@ You don’t have to include keywords from all categories. You can use them as a 
  
 Here are completely universal styles that you can combine and use in your prompt(I highly recommend using them!):
 
+Keywords for Professional photo: (dark shot:1.4), 80mm,  soft light, sharp, exposure blend, medium shot, bokeh, (hdr:1.4), high contrast, (cinematic, teal and orange:0.85), (muted colors, dim colors, soothing tones:1.3), low saturation, (hyperdetailed:1.2), (noir:0.4)
+
 Keywords for natural skin: (natural skin texture: 1.2), (hyperrealism:1.2), (soft light:1.2), (sharp:1.2)
 
 Keywords for gloomy style: complex background, stuff in the background, highly detailed, (gloomy:1.3), dark, dimmed, hdr, vignette, grimy, (slate atmosphere:0.8)
 
+Keywords for Cinematic style: (cinematic look:1.4), soothing tones, insane details, intricate details, hyperdetailed, low contrast, soft cinematic light, dim colors, exposure blend, hdr, faded, slate gray atmosphere
+
 Keywords for horror cinematic style: slate atmosphere, cinematic, dimmed colors, dark shot, muted colors, film grainy, lut, spooky
 
 Keywords for Cinematic art style: art by greg rutkowski, art by artgerm, soft cinematic light, adobe lightroom, photolab, hdr, intricate, highly detailed, (depth of field:1.4)
-
-Keywords for Professional photo: (dark shot:1.4), 80mm,  soft light, sharp, exposure blend, medium shot, bokeh, (hdr:1.4), high contrast, (cinematic, teal and orange:0.85), (muted colors, dim colors, soothing tones:1.3), low saturation, (hyperdetailed:1.2), (noir:0.4)
 
 Keywords for Engraving style: (grayscale, woodcut:1.2), (etching:1.1), (engraving:0.2), detailed
 
