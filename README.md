@@ -426,7 +426,8 @@ Fear- Child running towards the camera, in fear, by atey ghailan, by mike mignol
 
 Vibrant keywords: Weirdcore, Acidwave, Dreamcore, Vaporwave;
 
-Gloomy: 
+Gloomy:
+
 Liminal Space- Flooded, liminal space,underground city carpark, lighting with lensflares, photorealistic 8k, eerie;
 
 After Hours- After hours, stairs to the park, complex background, stuff in the background, highly detailed, (gloomy:1.3), dark, dimmed, hdr, vignette, grimy, (slate atmosphere:0.8);
