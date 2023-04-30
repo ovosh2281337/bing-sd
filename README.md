@@ -78,52 +78,56 @@ The keyword categories are:
 You don’t have to include keywords from all categories. You can use them as a checklist to remind you what could be used. 
  
  
-Negative prompt is supported in stable diffusion. Negative prompt allows you to tell the neural network what should not be in the photo. You can also use weights in negative prompt. Generally accepted negative prompt is considered:(deformed, distorted, disfigured:1.3), poorly drawn, bad anatomy, wrong anatomy, extra limb, missing limb, floating limbs, (mutated hands and fingers:1.4), disconnected limbs, mutation, mutated, ugly, disgusting, blurry, amputation. Each of his keywords is important, only if you know what you are doing, you can remove any keyword. For positive prompt and negative prompt, I have thought of universal keywords- styles. In positive prompt and negative prompt, "{prompt}" is written, which means where your prompt should stand, relative to universal keywords. That is, instead of {prompt} should be your prompt, positive or negative
+Negative prompt is supported in stable diffusion. Negative prompt allows you to tell the neural network what should not be in the photo. You can also use weights in negative prompt. Generally accepted negative prompt is considered:(deformed, distorted, disfigured:1.3), poorly drawn, bad anatomy, wrong anatomy, extra limb, missing limb, floating limbs, (mutated hands and fingers:1.4), disconnected limbs, mutation, mutated, ugly, disgusting, blurry, amputation. Each of his keywords is important, only if you know what you are doing, you can remove any keyword. For positive prompt and negative prompt, I have thought of universal keywords- styles. There is a "{POprompt}" in the positive prompt, which means where your positive prompt should stand, relative to universal keywords.  There is a "{NEprompt}" in Negative prompt, which means where your Negative prompt should stand, relative to universal keywords
  
 Here are completely universal styles that you can combine and use in your prompt(I highly recommend using them!):
 
 Professional photo:
-1. Positive prompt for Professional photo: (dark shot:1.4), 80mm, {prompt}, soft light, sharp, exposure blend, medium shot, bokeh, (hdr:1.4), high contrast, (cinematic, teal and orange:0.85), (muted colors, dim colors, soothing tones:1.3), low saturation, (hyperdetailed:1.2), (noir:0.4)
+1. Positive prompt for Professional photo: (dark shot:1.4), 80mm, {POprompt}, soft light, sharp, exposure blend, medium shot, bokeh, (hdr:1.4), high contrast, (cinematic, teal and orange:0.85), (muted colors, dim colors, soothing tones:1.3), low saturation, (hyperdetailed:1.2), (noir:0.4)
 
-2. Negative prompt for Professional photo: neon, {prompt}, over saturated
+2. Negative prompt for Professional photo: neon, {NEprompt}, over saturated
 
 Natural skin:
-1. Positive prompt for natural skin: {prompt}, (natural skin texture, hyperrealism, soft light, sharp)
+1. Positive prompt for natural skin: {POprompt}, (natural skin texture, hyperrealism, soft light, sharp)
 
-2. Negative prompt for natural skin: (cgi:0.9), {prompt}, 3d, illustration, cartoon, (doll:0.9)
+2. Negative prompt for natural skin: (cgi:0.9), {NEprompt}, 3d, illustration, cartoon, (doll:0.9)
 
+Details:
+1. Positive prompt Details: {POprompt}, (intricate details:0.9), (hdr, hyperdetailed:1.2)
+
+2. Negative prompt for Details: {NEprompt}
 
 Gloomy style:
-1. Positive prompt for gloomy style: {prompt}, complex background, stuff in the background, highly detailed, (gloomy:1.3), dark, dimmed, hdr, vignette, grimy, (slate atmosphere:0.8)
+1. Positive prompt for gloomy style: {POprompt}, complex background, stuff in the background, highly detailed, (gloomy:1.3), dark, dimmed, hdr, vignette, grimy, (slate atmosphere:0.8)
 
-2. Negative prompt for gloomy style: {prompt}, (depth of field:1.3), (bokeh:1.2), (blur), blurred, pink
+2. Negative prompt for gloomy style: {NEprompt}, (depth of field:1.3), (bokeh:1.2), (blur), blurred, pink
 
 
 Cinematic style: 
-1. Positive prompt for Cinematic style: {prompt}, (cinematic look:1.4), soothing tones, insane details, intricate details, hyperdetailed, low contrast, soft cinematic light, dim colors, exposure blend, hdr, faded, slate gray atmosphere
+1. Positive prompt for Cinematic style: {POprompt}, (cinematic look:1.4), soothing tones, insane details, intricate details, hyperdetailed, low contrast, soft cinematic light, dim colors, exposure blend, hdr, faded, slate gray atmosphere
 
-2. Negative prompt for Cinematic style: grayscale, black and white, bw, {prompt}, monochrome
+2. Negative prompt for Cinematic style: grayscale, black and white, bw, {NEprompt}, monochrome
 
 
 Horror cinematic style:
-1. Positive prompt for horror cinematic style: {prompt}, slate atmosphere, cinematic, dimmed colors, dark shot, muted colors, film grainy, lut, spooky
+1. Positive prompt for horror cinematic style: {POprompt}, slate atmosphere, cinematic, dimmed colors, dark shot, muted colors, film grainy, lut, spooky
 
-2. Negative prompt for Horror cinematic style: {prompt}
+2. Negative prompt for Horror cinematic style: {NEprompt}
 
 Cinematic art style:
-1. Positive prompt for Cinematic art style: art by greg rutkowski and artgerm, soft cinematic light, adobe lightroom, photolab, hdr, intricate, highly detailed, (depth of field:1.4)
+1. Positive prompt for Cinematic art style: {POprompt}, art by greg rutkowski and artgerm, soft cinematic light, adobe lightroom, photolab, hdr, intricate, highly detailed, (depth of field:1.4)
 
-2. Negative prompt for Cinematic art style: {prompt}
+2. Negative prompt for Cinematic art style: {NEprompt}
 
 Engraving style:
-1. Positive prompt for Engraving style: (grayscale, woodcut:1.2), (etching:1.1), (engraving:0.2), {prompt}, detailed
+1. Positive prompt for Engraving style: {POprompt}, (grayscale, woodcut:1.2), (etching:1.1), (engraving:0.2), {prompt}, detailed
 
-2. Negative prompt for Engraving style: {prompt}, colored
+2. Negative prompt for Engraving style: {NEprompt}, colored
 
 Epic painting: 
-1. Positive prompt for Painting: {prompt}, rutkowski, intricate digital art, soothing tones, (cartoon:0.3), (art:1.4), epic realistic, faded, neutral colors, (hdr:1.4), (muted colors:1.4), (intricate), (artstation:1.5), dramatic, intricate details, (technicolor:0.9), detailed, intricate, cinematic, detailed
+1. Positive prompt for Painting: {POprompt}, rutkowski, intricate digital art, soothing tones, (cartoon:0.3), (art:1.4), epic realistic, faded, neutral colors, (hdr:1.4), (muted colors:1.4), (intricate), (artstation:1.5), dramatic, intricate details, (technicolor:0.9), detailed, intricate, cinematic, detailed
 
-2. Negative prompt for Painting: {prompt}
+2. Negative prompt for Painting: {NEprompt}
  
 examples of works: 
 
