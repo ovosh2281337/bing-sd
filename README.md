@@ -82,7 +82,7 @@ A negative prompt is a way to tell the neural network what should not be in the 
 
 Generally accepted negative prompt is considered: (deformed, distorted, disfigured:1.3), poorly drawn, bad anatomy, wrong anatomy, extra limb, missing limb, floating limbs, (mutated hands and fingers:1.4), disconnected limbs, mutation, mutated, ugly, disgusting, blurry, amputation.
 
-Each of his keywords is important, only if you know what you are doing, you can remove any keyword. For positive prompt and negative prompt, I have thought of universal keywords- styles. There is a "{POprompt}" in the positive prompt, which means where your positive prompt should stand, relative to universal keywords.  There is a "{NEprompt}" in Negative prompt, which means where your Negative prompt should stand, relative to universal keywords
+Each of his keywords is important, only if you know what you are doing, you can remove any keyword. For positive prompt and negative prompt, I have thought of universal keywords- styles. There is a "{POprompt}" in the positive prompt, which means where your positive prompt should stand, relative to universal keywords.  There is a "{NEprompt}" in Negative prompt, which means where your Negative prompt should stand, relative to universal keywords. You must insert a generally accepted negative prompt or a modified version into "{NEprompt}" if it contradicts the positive prompt. And in "{POprompt}" there should be your positive prompt. It is already relative to them to write universal keywords from styles.
  
 Here are completely universal styles that you can combine and use in your prompt(I highly recommend using them!):
 
