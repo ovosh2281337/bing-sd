@@ -78,7 +78,9 @@ The keyword categories are:
 You don’t have to include keywords from all categories. You can use them as a checklist to remind you what could be used. 
  
  
-Negative prompt is supported in stable diffusion. Negative prompt allows you to tell the neural network what should not be in the photo. You can also use weights in negative prompt. Generally accepted negative prompt is considered:(deformed, distorted, disfigured:1.3), poorly drawn, bad anatomy, wrong anatomy, extra limb, missing limb, floating limbs, (mutated hands and fingers:1.4), disconnected limbs, mutation, mutated, ugly, disgusting, blurry, amputation. Each of his keywords is important, only if you know what you are doing, you can remove any keyword. For positive prompt and negative prompt, I have thought of universal keywords- styles. There is a "{POprompt}" in the positive prompt, which means where your positive prompt should stand, relative to universal keywords.  There is a "{NEprompt}" in Negative prompt, which means where your Negative prompt should stand, relative to universal keywords
+Negative prompt is supported in stable diffusion. Negative prompt allows you to tell the neural network what should not be in the photo. You can also use weights in negative prompt. 
+Generally accepted negative prompt is considered:(deformed, distorted, disfigured:1.3), poorly drawn, bad anatomy, wrong anatomy, extra limb, missing limb, floating limbs, (mutated hands and fingers:1.4), disconnected limbs, mutation, mutated, ugly, disgusting, blurry, amputation.
+Each of his keywords is important, only if you know what you are doing, you can remove any keyword. For positive prompt and negative prompt, I have thought of universal keywords- styles. There is a "{POprompt}" in the positive prompt, which means where your positive prompt should stand, relative to universal keywords.  There is a "{NEprompt}" in Negative prompt, which means where your Negative prompt should stand, relative to universal keywords
  
 Here are completely universal styles that you can combine and use in your prompt(I highly recommend using them!):
 
