@@ -103,46 +103,40 @@ Professional photo:
 2. Negative prompt for Professional photo: neon, {NEprompt}, over saturated
 
 Natural skin:
-1. Positive prompt for natural skin: {POprompt}, (natural skin texture, hyperrealism, soft light, sharp)
+1. Positive prompt for natural skin: (natural skin texture, hyperrealism, soft light, sharp)
 
-2. Negative prompt for natural skin: (cgi:0.9), {NEprompt}, 3d, illustration, cartoon, (doll:0.9)
+2. Negative prompt for natural skin: (cgi:0.9), 3d, illustration, cartoon, (doll:0.9)
 
 Details:
-1. Positive prompt Details: {POprompt}, (intricate details:0.9), (hdr, hyperdetailed:1.2)
+1. Positive prompt Details: (intricate details:0.9), (hdr, hyperdetailed:1.2)
 
-2. Negative prompt for Details: {NEprompt}
 
 Gloomy style:
-1. Positive prompt for gloomy style: {POprompt}, complex background, stuff in the background, highly detailed, (gloomy:1.3), dark, dimmed, hdr, vignette, grimy, (slate atmosphere:0.8)
+1. Positive prompt for gloomy style: complex background, stuff in the background, highly detailed, (gloomy:1.3), dark, dimmed, hdr, vignette, grimy, (slate atmosphere:0.8)
 
-2. Negative prompt for gloomy style: {NEprompt}, (depth of field:1.3), (bokeh:1.2), (blur), blurred, pink
+2. Negative prompt for gloomy style: (depth of field:1.3), (bokeh:1.2), (blur), blurred, pink
 
 
 Cinematic style: 
-1. Positive prompt for Cinematic style: {POprompt}, (cinematic look:1.4), soothing tones, insane details, intricate details, hyperdetailed, low contrast, soft cinematic light, dim colors, exposure blend, hdr, faded, slate gray atmosphere
+1. Positive prompt for Cinematic style: (cinematic look:1.4), soothing tones, insane details, intricate details, hyperdetailed, low contrast, soft cinematic light, dim colors, exposure blend, hdr, faded, slate gray atmosphere
 
-2. Negative prompt for Cinematic style: grayscale, black and white, bw, {NEprompt}, monochrome
+2. Negative prompt for Cinematic style: grayscale, black and white, bw, monochrome
 
 
 Horror cinematic style:
-1. Positive prompt for horror cinematic style: {POprompt}, slate atmosphere, cinematic, dimmed colors, dark shot, muted colors, film grainy, lut, spooky
+1. Positive prompt for horror cinematic style: slate atmosphere, cinematic, dimmed colors, dark shot, muted colors, film grainy, lut, spooky
 
-2. Negative prompt for Horror cinematic style: {NEprompt}
 
 Cinematic art style:
-1. Positive prompt for Cinematic art style: {POprompt}, art by greg rutkowski and artgerm, soft cinematic light, adobe lightroom, photolab, hdr, intricate, highly detailed, (depth of field:1.4)
-
-2. Negative prompt for Cinematic art style: {NEprompt}
+1. Positive prompt for Cinematic art style: art by greg rutkowski and artgerm, soft cinematic light, adobe lightroom, photolab, hdr, intricate, highly detailed, (depth of field:1.4)
 
 Engraving style:
-1. Positive prompt for Engraving style: {POprompt}, (grayscale, woodcut:1.2), (etching:1.1), (engraving:0.2), {prompt}, detailed
+1. Positive prompt for Engraving style: (grayscale, woodcut:1.2), (etching:1.1), (engraving:0.2), {prompt}, detailed
 
-2. Negative prompt for Engraving style: {NEprompt}, colored
+2. Negative prompt for Engraving style: colored
 
 Epic painting: 
-1. Positive prompt for Painting: {POprompt}, rutkowski, intricate digital art, soothing tones, (cartoon:0.3), (art:1.4), epic realistic, faded, neutral colors, (hdr:1.4), (muted colors:1.4), (intricate), (artstation:1.5), dramatic, intricate details, (technicolor:0.9), detailed, intricate, cinematic, detailed
-
-2. Negative prompt for Painting: {NEprompt}
+1. Positive prompt for Painting: rutkowski, intricate digital art, soothing tones, (cartoon:0.3), (art:1.4), epic realistic, faded, neutral colors, (hdr:1.4), (muted colors:1.4), (intricate), (artstation:1.5), dramatic, intricate details, (technicolor:0.9), detailed, intricate, cinematic, detailed
  
 examples of works: 
 
