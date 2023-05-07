@@ -82,24 +82,18 @@ A negative prompt is a way to tell the neural network what should not be in the 
 
 Generally accepted negative prompt is considered: (deformed, distorted, disfigured:1.3), poorly drawn, bad anatomy, wrong anatomy, extra limb, missing limb, floating limbs, (mutated hands and fingers:1.4), disconnected limbs, mutation, mutated, ugly, disgusting, blurry, amputation.
 
-For positive prompt and negative prompt, I have thought of universal keywords- styles. There is a "{POprompt}" in the positive prompt, which means where your positive prompt should stand, relative to positive style. There is a "{NEprompt}" in Negative prompt, which means where your Negative prompt should stand, relative to negative style. You must insert a generally accepted negative prompt or a modified version into "{NEprompt}". And in "{POprompt}" there should be your positive prompt. It is already relative to them to write universal keywords from styles.
+For positive prompt and negative prompt, I have thought of universal keywords - styles. You may not find them in the examples because they are new. Almost every style has a Negative prompt. It is advisable to write it together with positive prompt.
 
-For example, if you want to generate an image of a cat in a Professional photo style:
-
+An example of how to use styles if you want to create a cat image in a Professional photo style:
 1. Positive prompt: (dark shot:1.4), 80mm, cat, soft light, sharp, exposure blend, medium shot, bokeh, (hdr:1.4), high contrast, (cinematic, teal and orange:0.85), (muted colors, dim colors, soothing tones:1.3), low saturation, (hyperdetailed:1.2), (noir:0.4)
 
 2. Negative prompt: neon, (deformed, distorted, disfigured:1.3), poorly drawn, bad anatomy, wrong anatomy, extra limb, missing limb, floating limbs, (mutated hands and fingers:1.4), disconnected limbs, mutation, mutated, ugly, disgusting, blurry, amputation, over saturated
-
-As you can see, I replaced "{POprompt}" with "cat", and NEprompt with "(deformed, distorted, disfigured:1.3), poorly drawn, bad anatomy, wrong anatomy, extra limb, missing limb, floating limbs, (mutated hands and fingers:1.4), disconnected limbs, mutation, mutated, ugly, disgusting, blurry, amputation" 
 
 For example, if you want to generate an image of a girl with Natural skin:
 
 1. Positive prompt: girl, (natural skin texture, hyperrealism, soft light, sharp)
 
 2. Negative prompt: (cgi:0.9), (deformed, distorted, disfigured:1.3), poorly drawn, bad anatomy, wrong anatomy, extra limb, missing limb, floating limbs, (mutated hands and fingers:1.4), disconnected limbs, mutation, mutated, ugly, disgusting, blurry, amputation, 3d, illustration, cartoon, (doll:0.9)
-
-As you can see, I replaced "{POprompt}" with "girl", and NEprompt with "(deformed, distorted, disfigured:1.3), poorly drawn, bad anatomy, wrong anatomy, extra limb, missing limb, floating limbs, (mutated hands and fingers:1.4), disconnected limbs, mutation, mutated, ugly, disgusting, blurry, amputation" 
-
 
 Here are completely universal styles that you can combine and use in your prompt(I highly recommend using them!):
 
