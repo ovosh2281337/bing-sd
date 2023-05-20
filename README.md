@@ -261,21 +261,21 @@ Here is a list in my opinion of the most important artists:
 - Quentin Blake - an artist and illustrator of children's books. In stable diffusion, he helps to get a cartoon style with simple shapes and expressive emotions. If you add the word "punk" to the prompt, you can get a more daring and unusual style.
 - David Palumbo - an artist who creates illustrations in the genres of fantasy and science fiction. In stable diffusion, he helps to get visible strokes and smudges from paint, which gives the art more realism and dynamics.
 - Phil Jimenez - a comic book artist, known for his work on Wonder Woman. In stable diffusion, he helps to get increased detail and realism of characters and scenes.
-- Geoff Darrow - a comic book artist, known for his extremely detailed work. In stable diffusion, he helps to get highly detailed backgrounds with lots of small elements and textures.
+- Geof Darrow - a comic book artist, known for his extremely detailed work. In stable diffusion, he helps to get highly detailed backgrounds with lots of small elements and textures.
 - Nicola Samori - an artist who creates dark and gloomy baroque. In stable diffusion, he helps to get splashes, blotches, stains and dirt on the art, which gives it more expressiveness and contrast.
 - Ben Templesmith - an artist whose work was adapted into the film "30 Days of Night". He creates covers for books, cards and concepts for films. In stable diffusion, he helps to get a dark and dirty style with bloody accents and fuzzy contours.
 - Brandon Woelfel - a photographer with neon photos. In stable diffusion, he helps to get a photographic neon light with bright colors and contour effect at low-res.
-- Viviane Sassen - a photographer from the world of fashion. In stable diffusion, she helps to get stylish and aesthetic photos with models in different poses and moods. She also helps to mask the neural network and get unique faces by adding the word "detailed" to the prompt.
+- Viviane Sassen - a photographer from the world of fashion. In stable diffusion, she helps to get stylish and aesthetic photos with models in different poses and moods. As we know, almost identical faces are generated in many neural networks. Viviane Sassen also helps to mask the neural network and get unique faces by adding the word "detailed" to the prompt.
 - Brian Oldham - a photographer who creates creatively or creatively. In stable diffusion, he helps to get professional, cinematic, creative photos or arts without additional tokens. Just write his name after the prompt.
 - Lisa Frank - an artist who makes mega colorful school supplies. In stable diffusion, she helps to get a bright and rainbow style with different animals, stars, hearts and other elements.
 - Simon Stalenhag - an artist who specializes in retro-futurism. In stable diffusion, he helps to get a cozy and major style with elements of old technologies, robots, rockets and other things from the past future.
-- Irina Ermolova - an artist from Russia who creates magnificent works in oil. In stable diffusion, she helps to get a classic style of painting with realistic characters and landscapes. If you write her name with I (Irina), you can get a 3D effect on the art.
+- Iryna Yermolova - an artist from Russia who creates magnificent works in oil. In stable diffusion, she helps to get a classic style of painting with realistic characters and landscapes. If you write her name with I (Irina), you can get a 3D effect on the art.
 - Todd Schorr - an American artist who works in the style of pop-surrealism. In stable diffusion, he helps to get Slavic motifs with khokhloma, ear-zagogulinki, molding and other elements of national color.
-- Elaina Lammer - a star of art-station who creates magnificent landscapes, castles and magical creatures. In stable diffusion, she helps to get a fantasy style with detailed and colorful images. She is mandatory for any prompt in the genre of fantasy.
+- Alayna Lemmer - a star of art-station who creates magnificent landscapes, castles and magical creatures. In stable diffusion, she helps to get a fantasy style with detailed and colorful images. She is mandatory for any prompt in the genre of fantasy.
 - Andre Charles Boulle - a French artist who makes wood carvings and draws ornaments. In stable diffusion, he helps to get intrigue gold or golden effect on the art by adding low-res.
 - Conor Harrington - an Irish street graffiti artist. In stable diffusion, he helps to get an epic staging of a scene or a hero with realistic details and contrasting colors.
 - Wangechi Mutu - an artist from Kenya who makes anthropological art with African motifs. In stable diffusion, she helps to get coffee-chocolate arts with different patterns and symbols.
-- Patrick Dougherty - an eco-artist who makes sculptures and installations from sticks and seedlings. In stable diffusion, he helps to get a hay-like or wooden effect on the art, if you need to make something out of shit and sticks.
+- Patrick Dougherty - an eco-artist who makes sculptures and installations from sticks and seedlings. In stable diffusion, he helps to get a hay-like or wooden effect on the art, if you need to make something out of shit and sticks. It creates anything from branches
 
 About Modiﬁers
 
