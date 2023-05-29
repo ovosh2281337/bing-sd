@@ -188,6 +188,21 @@ realistic prompt: (photorealistic:1.4), official art, unity 8k wallpaper, ultra 
 
 realistic prompt: Margot Robbie, malice, skulls, tendrils, dark atmosphere, greyscale, detailed linework, cinematic, psychedelic, black paper with vibrant turqoise line work, ornate, symmetrical, tarot card, highly detailed, ink illustration, style of peter mohrbacher, golden ratio
 
+good prompt: (dark shot:1.1), epic realistic, portrait of halo, sunglasses, blue eyes, tartan scarf, white hair by atey ghailan, by greg rutkowski, by greg tocchini, by james gilleard, by joe fenton, by kaethe butcher, gradient yellow, black, brown and magenta color scheme, grunge aesthetic!!! graffiti tag wall background, art by greg rutkowski and artgerm, soft cinematic light, adobe lightroom, photolab, hdr, intricate, highly detailed, (depth of field:1.4), faded, (neutral colors:1.2), (hdr:1.4), (muted colors:1.2), hyperdetailed, (artstation:1.4), cinematic, warm lights, dramatic light, (intricate details:1.1), complex background, (rutkowski:0.66), (teal and orange:0.4)
+
+good prompt: (dark theme:0.9), medieval portrait of a man sharp features, grim, cold stare, dark colors, Volumetric lighting, baroque oil painting by Greg Rutkowski, Artgerm, WLOP, Alphonse Mucha dynamic lighting hyperdetailed intricately detailed, (hdr:1.22), muted colors, complex background, hyperrealism, hyperdetailed, amandine van ray
+
+good prompt: a demon made with black stone, Giovanni Strazza sculpt style , bokesharp focus depth, shadows, mist, fog, very High detailed, cinematic lighting, Cinematic, high detailed, ultra detailed, Accent Lighting, very god colors, realistic, 8k, HDR
+
+good prompt: woman, samurai armor, helmet oni evil mask intricate, ornaments detailed, cold colors, metal, egypician detail, highly intricate details, realistic light, trending on cgsociety, glowing eyes, facing camera, neon details, ultra realistic details, portrait full body, japanese atmosphere, global illumination, shadows, octane render, 8 k, ultra sharp
+
+good prompt: (dark shot:1.1), epic realistic, RAW, analog, A full portrait of stunning woman wearing swimsuit, alluring expression, swimming pool, clear water, wet hair, natural look, no make up, pureerosface_v1, masterpiece that captures the essence and beauty of the woman and water, ((highly detailed skin, skin details, water details)), sharp focus, volumetric fog, 8k UHD, DSLR, high quality, film grain, Fujifilm XT3, art by greg rutkowski and artgerm, soft cinematic light, adobe lightroom, photolab, hdr, intricate, highly detailed, (depth of field:1.4), faded, (neutral colors:1.2), (hdr:1.4), (muted colors:1.2), hyperdetailed, (artstation:1.4), cinematic, warm lights, dramatic light, (intricate details:1.1), complex background, (rutkowski:0.66), (teal and orange:0.4), (natural skin texture, hyperrealism, soft light, sharp)
+
+good prompt: A flower by Casey Weldon, Olga Kvasha, Miho Hirano, hyperdetailed intricately detailed gothic art trending on Artstation triadic colors Unreal Engine 5 detailed matte painting, deep color, fantastical, intricate detail, splash screen, complementary colors, fantasy concept art, 8k resolution, gothic deviantart masterpiece, (dark shot:1.4), art by greg rutkowski and artgerm, soft cinematic light, adobe lightroom, photolab, hdr, intricate, highly detailed, (depth of field:1.4)
+
+good prompt: almaty girl, kazakh, Portrait of haute couture beautiful kazakh fashion model , ethereal dreamy foggy, photoshoot by alessio albi, editorial fashion magazine photoshoot, fashion poses, in front of mountain. kinfolk magazine. film grain, (dark shot:1.3), (natural skin texture, hyperrealism, soft light, sharp)
+
+good prompt: Delicious glowing galaxy cake on a dining table in the kitchen, comfortable light, romantic light, ultra details, photorealistic, realistic, gel lighting, Cinematic, Filmic, medium shot, 4k, Front-light, Cinematic Lighting, volumetric Light, Ray Tracing Reflections, Chromatic Aberration, photography, hyper realistic, 4k, 8k,closeup
 
 just an example: drunk, creepy santa, muddy, crowded bottles bar, intricate details, hdr, intricate details, hyperdetailed, cinematic, dark shot, muted colors, film grainy, soothing tones, muted colors, technicolor
 
