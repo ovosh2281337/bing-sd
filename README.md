@@ -261,7 +261,7 @@ anime prompt: masterpiece, best quality, ultra-detailed, city, street, gothic, s
 
 anime prompt: (masterpiece, best quality:1.2), cinematic anime, anime clip of a 3 girls floating in space, universe, milky way, cosmos, planet, stars, astronaut, full body, ultra detailed, beautiful face, finely detailed eyes, extremely detailed, correct anatomy, incredibly_absurdres
 
-anime prompt: ((masterpiece)), (((gray eyes))), (((blue hair, floating hair, liquid hair, chromatic aberration))), (focus on eyes, shaded, photo, insanely detailed, bloom:1.5), short hair, (photorealistic, masterpiece, dynamic angle, highest quality, (photorealistic, masterpiece, dynamic angle, highest quality, intricate, Alessandro Casagrande, Greg Rutkowski, Sally Mann, athletic wet punk body, (blue panties), nipples, concept art, 4k, far-off), (medium breasts, portrait, choker, soft), (sadness), (((blue flowers))), (((Night))), high sharpness, extreme saturation and contrast
+anime prompt: ((masterpiece)), (((gray eyes))), (((blue hair, floating hair, liquid hair, chromatic aberration))), (focus on eyes, shaded, photo, insanely detailed, bloom:1.5), short hair, photorealistic, masterpiece, dynamic angle, highest quality, photorealistic, masterpiece, dynamic angle, highest quality, intricate, Alessandro Casagrande, Greg Rutkowski, Sally Mann, athletic wet punk body, (blue panties), nipples, concept art, 4k, far-off, (medium breasts, portrait, choker, soft), (sadness), (((blue flowers))), (((Night))), high sharpness, extreme saturation and contrast
 
 anime prompt: ((4k,masterpiece, best quality)), shuimobysim, traditional chinese ink painting, lotus, hanfu, maxiskit, 1girl, solo, white hair, long hair, fox ears, white, bikini, fish, many fish near girl, look at viewer, tease
 
