@@ -82,6 +82,8 @@ A negative prompt is a way to tell the neural network what should not be in the 
 
 Generally accepted negative prompt is considered: (deformed, distorted, disfigured:1.3), poorly drawn, bad anatomy, wrong anatomy, extra limb, missing limb, floating limbs, (mutated hands and fingers:1.4), disconnected limbs, mutation, mutated, ugly, disgusting, blurry, amputation.
 
+Realistic negative prompt: overexposed, (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime:1.3), text, close up, cropped, out of frame, worst quality, low quality, jpeg artifacts, ugly, duplicate, morbid, mutilated, extra fingers, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, blurry, dehydrated, bad anatomy, bad proportions, extra limbs, cloned face, disfigured, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck.
+
 For positive prompt and negative prompt, I have thought of universal keywords - styles. You may not find them in the examples because they are new. Almost every style has a Negative prompt. It is advisable to write it together with positive prompt.
 
 An example of how to use styles if you want to create a cat image in a Professional photo style:
@@ -163,6 +165,12 @@ realistic prompt: end of the world, epic realistic, (hdr:1.4), (muted colors:1.4
 realistic prompt: alluring stuning gorgeous posing european drunk homeless sexy business lady weared ((dirty)) ripped skirt, ripped blouse, intricate enviroment, intricate texture of skin, food waste, trash, garbage, little dead rat , night, night street lights, carton boxes, cute face, sexual intention, normal legs
 
 realistic prompt: portrait of a Ukrainian woman, ( detailed grain skin:1.3), scarf around the neck, (mole), (she bit her lower lip:1.3), Bob haircut, (messy hair:1.4), gray eyes, (tears in his eyes), (glossy eyes:1.1), adobe lightroom, photolab, hdr, 50mm camera, studio lighting, professional, (colorful background:1.3)
+
+realistic prompt: Extremely detailed RAW photo, portrait of cowboy, outdoor, night, rugged, weathered, stoic, cowboy hat, spurs on boots, deep set wrinkles, piercing blue eyes, a determined expression, fireplace warm lighting, looking off into the distance, clear night sky filled with stars, horses standing in the background, best quality, ultra-detailed, classic western
+
+realistic prompt: (dark shot:1.4), 80mm, portrait quality of a arab man worker, wasteland that stands out vividly against the background of the (desert, barren: 1.1) landscape, (closeup:0.5), moles skin, soft light, sharp, exposure blend, medium shot, bokeh, (hdr:1.4), high contrast, (cinematic, teal and orange:0.85), (muted colors, dim colors, soothing tones:1.3), low saturation, (hyperdetailed:1.2), (noir:0.4)
+
+realistic prompt: a girl, shows her ass, (exposed butthole and pussy:1.1), bending over on a bench, mini skirt, skinny, sneakers, hdr, intricate details, hyperdetailed, cinematic, dark shot, muted colors, film grainy, soothing tones, muted colors, technicolor, muddy, lookback
 
 realistic prompt: (8k, best quality, masterpiece:1.2),(best quality:1.0), (ultra highres:1.0), watercolor, a beautiful woman, shoulder, hair ribbons, by agnes cecile, full body portrait, extremely luminous bright design, (pastel colors), forest background, modelshoot style, very long hair, intricate, elegant, realism, (hyperrealism), (cinematic), (hyperdetailed:1.2), hdr
 
