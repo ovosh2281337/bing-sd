@@ -144,9 +144,13 @@ examples of works:
 
 realistic prompt: RAW photo, girl, 22 years old, upper body, selfie in a car, blue hoodie,(1girl), (realistic), (photo-realistic:1.5), inside a car, driving, lipstick, freckles, (short hair), multicolor hair, necklace, (RAW photo, 8k uhd, film grain), Sharp Eyeliner, Blush Eyeshadow With Thick Eyelashes, extremely delicate and beautiful, 8k, soft lighting, high quality, highres, sharp focus, extremely detailed, during the day, (sunlight on face), beautiful detailed eyes, extremely detailed eyes and face, masterpiece, cinematic lighting, (high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, film grain, Fujifilm XT3
 
+realistic prompt: (close-up, editorial photograph of a 20 yo woman from the 1940's), (highly detailed face:1.4) (smile:0.7) (background inside dark, moody, private study:1.3), POV, by lee jeffries, nikon d850, film stock photograph, 4 kodak portra 400, camera f1.6 lens, rich colors, hyper realistic, lifelike texture, dramatic lighting , cinestill 800,
+
+realistic prompt: best quality, masterpiece, ultra high res, (photorealistic:1.4), raw photo, 1girl, ((small breasts)), ((nsfw)), (kneeling), (from above), (thick thighs), (slim waist), (blushing), (face close-up), (soft pearl lips), (glossy lips) This fusion character blends the mythical Phoenix with a skilled hacker immersed in a futuristic world. Her body is adorned with a sleek, form-fitting suit that mimics the fiery feathers of a phoenix, shimmering with vibrant hues of red, orange, and gold. She wears a high-tech visor that enhances her vision and grants her access to augmented reality interfaces. With her mastery of hacking and her ability to rise from the ashes of defeat, she is a formidable force in both the digital realm and the physical world. 
+
 realistic prompt: fashion photography portrait of blue human avatar, in blue lush jungle with flowers and birds, 3d render, cgi, symetrical, octane render, 35mm, bokeh, (intricate details:1.12), hdr, (intricate details, hyperdetailed:1.15), (natural skin texture, hyperrealism, soft light, sharp:1.2)
 
-realistic prompt: foxie european woman, ginger hair, winter forest, natural skin texture, 24mm, 4k textures, soft cinematic light, adobe lightroom, photolab, hdr, intricate, elegant, highly detailed, sharp focus, ((((cinematic look)))), soothing tones, insane details, intricate details, hyperdetailed, low contrast, soft cinematic light, dim colors, exposure blend, hdr, faded
+realistic prompt: foxie european woman, ginger hair, winter forest, natural skin texture, 24mm, 4k textures, soft cinematic light, adobe lightroom, photolab, hdr, intricate, elegant, highly detailed, sharp focus, (cinematic look:1.3), soothing tones, insane details, intricate details, hyperdetailed, low contrast, soft cinematic light, dim colors, exposure blend, hdr, faded
 
 realistic prompt: photo of coastline, rocks, storm weather, wind, waves, lightning, 8k uhd, dslr, soft lighting, high quality, film grain, Fujifilm XT3
 
@@ -230,12 +234,41 @@ just an example: (RAW photo, best quality), (realistic, photo-realistic:1.3), ma
 
 just an example: end of the world, epic realistic, (hdr:1.4), (muted colors:1.4), apocalypse, freezing, abandoned, neutral colors, night, screen space refractions, (intricate details), (intricate details, hyperdetailed:1.2), artstation, cinematic shot, vignette, complex background, buildings, snowy
 
-
 anime prompt: (flat color:1.1),(colorful:1.3),(masterpiece:1.2), best quality, masterpiece, original, extremely detailed wallpaper, looking at viewer,1girl,solo,floating colorful water
 
 anime prompt: (masterpiece, best quality, ultra-detailed, best shadow), (detailed background,dark fantasy), (beautiful detailed face), high contrast, (best illumination, an extremely delicate and beautiful), ((cinematic light)), colorful, hyper detail, dramatic light, intricate details, (1girl, solo,black hair, sharp face,low twintails, red eyes, hair between eyes,dynamic angle), blood splatter, swirling black light around the character, depth of field, black light particles, (broken glass), magic circle
 
 anime prompt: (masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.2), (1girl), extreme detailed, (fractal art:1.5),(cherry flowers in fractal art:1.3), colorful, highest detailed, upper body, purple hair, purple eyes, large breasts, kimono, bangs, sash, mole, obi, tassel, blush, hair ornament
+
+anime prompt: ((masterpiece)), (best quality), official art, extremely detailed CG unity 8k wallpaper, highly detailed, shiny skin, Depth of field, vivid color, 1girl, (skinny:1.3), (full body:0.6), narrow waist, looking at viewer, nude, blush, (embarrassed:1.4), (lying:1.2), squatting, semen, pussy juice, cum, window, (messy room:1.2),
+
+anime prompt: ((masterpiece, best quality,)), dumb, (wet:1.2), girl, big breasts, (see-through:1.3), nsfw
+
+anime prompt: absurdres, 1girl, red eyes, blue hair, long hair, wide-eyed, eyelashes, looking at viewer, medium breasts, head tilt, cowboy shot, hair over one eye, smile, posing, leaning forward, skirt, arm up, waving, arm bag, school uniform, running, trees, blurred background, path, crowd
+
+anime prompt: (8k, masterpiece, best quality, ultra-detailed), (an extremely delicate and beautiful), 1girl, solo, kawaii, cute, very big eyes, Aesthetic Anime Eyes, small face, nipples, navel, pussy, clitoris, nude, large breasts, (dark-skinned female), dark elf, wet, sitting, embarrassed, shy, blush, surprised, (open mouth:0.5), forest, (lake:0.9), sunbeam, looking at viewer,
+
+anime prompt: (best quality), (masterpiece), (highres), original, extremely detailed 8K wallpaper, beautiful detailed girl, extremely detailed eyes and face, beautiful detailed eyes,an extremely delicate and beautiful girl,extremely detailed eyes and face, 1girl,upper body,nice hands,looking at viewer,gloss,(shy), (cute),smile,(white printed chinese upshirt),(green long skirt),black hair, hukezouma, negative space, shuimobysim , portrait of a woman standing , willow branches,traditional chinese ink painting, modelshoot style, peaceful, (smile), looking at viewer, song, willow tree in background, wuchangshuo
+
+anime prompt: masterpiece, best quality, 1girl, (colorful),(delicate eyes and face), volumatic light, ray tracing, bust shot ,extremely detailed CG unity 8k wallpaper,solo,smile,intricate skirt,((flying petal)),(Flowery meadow) sky, cloudy_sky, moonlight, moon, night, (dark theme:1.3), light, fantasy, windy, magic sparks, dark castle, white hair
+
+anime prompt: absurdres, 2girls, yuri, lesbian, nude, breasts, nipples, ass, vagina, pussy, blushing, smile, cinematic lighting, ethereal, pastel pink hair color, long wavy hair, dreamy, soft, fluffy, kawaii, long hair, short hair
+
+anime prompt: masterpiece, best quality, 1girl, Anna yamada, black hair, long hair, bangs, ponytail,large breasts,gym uniform, white shirt, gym shirt, blue shorts, sweat, (undressing top:1.2), nipples, brown eyes, smile, school ground , outdoor,
+
+anime prompt: (best quality, masterpiece), 1girl, solo, sitting on a desk, beautiful face, blonde hair, torn clothes, torn legwear, dark school uniform, black thighhighs, moldy room, scared, crying, terrified face, itricate details, tied arms behind head, dark atmosphere, danger,
+
+anime prompt: (masterpiece), best quality, high resolution, extremely detailed, detailed background, cinematic lighting, lens flare, glitter, 1girl, short hair, medium breasts, school uniform, indoor
+
+anime prompt: best quality, 4K wallpaper, masterpiece, extremely detailed CG unity 8k wallpaper, extremely detailed eyes, ultra-detailed, intricate details, 1girl, solo, red eyes, silver hair, long hair, Adidas outfit, shoes, jewelry, ear piercing, looking at viewer, road sign, street park, street,
+
+anime prompt: (masterpiece),(best quality),extreamly delicate and beautiful,traditional media,1girl, sakurakouji-luna,fellatio, tentacle-pit,tentacles in mouth, arms up, long white hair, red eyes, completely nude, hair ribbon, ass,ass focus, pussy, nipples,tentacles, (restrained:1.1), (vaginal:1.21),tentacle in pussy, (cum:1.3), from behind,
+
+anime prompt: 1girl, red hair, multicolored hair,flaming hair,red eyes,flames,angry look,hands in flame,red magic circle,red dress, sidelighting, light particles, wallpaper, abstract, random colors
+
+anime prompt: absurdres, high resolution, (high quality, masterpiece:1.2), portrait, (lens flare, glitters), intricate details, realism, (upper body, looking at viewer:1.2), (pastel colors:1.3), daylight thru windows BREAK (kawaii cute shopstaff 1girl, standing inside flower shop, holding colorful flower bouquet:1.4), over the counter, (detailed shining light blue eyes:1.2), (delicate hair, detailed shining light pink hair blowing in wind, high ponytail:1.3), light smile, large breasts, green apron BREAK (lively atmosphere, many visitors, talking to visitor:1.5), colorful flower arrangements, (vibrant blooms:1.2), bustling market, (fragrant scents), floral abundance, (colorful petals:1.2), (floral displays), cheerful atmosphere, (flower shop signage:1.3), vibrant colors, lively interactions, lively floral arrangements
+
+anime prompt: hentai,1girl,sex,white hair,blush,breasts,purple eyes,medium breasts,nipples,(naughty face),sweatdrop,trembling, sweat,cum, bare shoulders, collarbone, narrow waist, heart,
 
 anime prompt: (Girlish Painting:1.3), (Ultra detailed:1.3), (Cosy:1.3), best quality, masterpiece, highly detailed, ultra-detailed, 1girl, Emma Watson, unreal engin 5, octane render, (2D:1.2), limited palette flat color, digital painting, artstation, concept art, smooth, sharp focus, art by ross tran, art by greg rutkowski, art by alphonse Mucha, art by Bak Karol, (oil painting:1.16), (acrylic paint:1.16), (colorful:1.5), (watercolor:1.16), by nvinkpunk, kuvshinov, dreamlikeart, samdoesart, modelshoot style, (by Artist Koho Shoda:1.3), (by Artist Mike Mignola:1.3), (by Artist Joop Polder:1.3), (Classicism Art:1.3), (Industrial Art:1.3), (Solarpunk Art:1.3)
 
