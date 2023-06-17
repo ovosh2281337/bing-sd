@@ -9,7 +9,7 @@ This will strengthen your ability to
 bring your creative dream images to life.
 
 
-Prompt keyword weighting is supported. You can increase the attention of a keyword but not higher than 1.5. 
+Prompt keyword weighting is supported. You can increase the attention of a keyword but not higher than 1.5.
 Use the format (example:weight). By default, words have a coefficient of 1 (example: 0.4), they will have a lower priority.
 
 Also you can still use this structure: (example, example :weight), so the weight will increase for several words at once.
@@ -36,7 +36,7 @@ f) Background. Solid color, nebula, forest
 
 This is not an all-inclusive list, but will help you get great results when you start.
 your prompt crafting journey.
-                                                                                                                               
+
 Answer the following questions:
 1. Do you want a photo or a painting? => painting
 2. What’s the subject of the photo? Person. animal, landscape. => a goldendoodle
@@ -63,11 +63,11 @@ The keyword categories are:
 5. Website: the name of a niche graphic website that aggregates images of a certain genre, such as Artstation or Deviant Art.
 6. Additional details: any other modifiers that can enhance the image, such as sci-fi, stunningly beautiful, dystopian, etc.
 7. Color: the overall color or tone of the image, such as iridescent gold, pastel pink, etc.
-8. Lighting: the effect of light and shadow on the image, such as cinematic lighting, soft lighting, dark, dark shot,  bright, etc.
+8. Lighting: the effect of light and shadow on the image, such as cinematic lighting, soft lighting, dark, dark shot, bright, etc.
 
-You don’t have to include keywords from all categories. You can use them as a checklist to remind you what could be used. 
- 
- 
+You don’t have to include keywords from all categories. You can use them as a checklist to remind you what could be used.
+
+
 A negative prompt is a way to tell the neural network what should not be in the image. You can use words or phrases that describe what you want to avoid or exclude from the image. You can also use weights in negative prompt to increase or decrease the effect of certain words.
 
 Generally accepted negative prompt is considered: (deformed, distorted, disfigured:1.3), poorly drawn, bad anatomy, wrong anatomy, extra limb, missing limb, floating limbs, (mutated hands and fingers:1.4), disconnected limbs, mutation, mutated, ugly, disgusting, blurry, amputation.
@@ -83,19 +83,19 @@ An example of how to use styles if you want to create a cat image in a Professio
 
 For example, if you want to generate an image of a girl with Natural skin:
 
-1. Positive prompt: girl, (natural skin texture, hyperrealism, soft light, sharp)
+1. Positive prompt: girl, (natural skin texture, hyperrealism, soft light, sharp: 1.1)
 
 2. Negative prompt: (cgi:0.9), (deformed, distorted, disfigured:1.3), poorly drawn, bad anatomy, wrong anatomy, extra limb, missing limb, floating limbs, (mutated hands and fingers:1.4), disconnected limbs, mutation, mutated, ugly, disgusting, blurry, amputation, 3d, illustration, cartoon, (doll:0.9)
 
-Here are completely universal styles that you can combine and use in your prompt(I highly recommend using them!):
+Here are completely universal styles that you can combine and use in your prompt(I highly recommend using them!: 1.1):
 
 Professional photo:
-1. Positive prompt for Professional photo: (dark shot:1.4), 80mm, {POprompt}, soft light, sharp, exposure blend, medium shot, bokeh, (hdr:1.4), high contrast, (cinematic, teal and orange:0.85), (muted colors, dim colors, soothing tones:1.3), low saturation, (hyperdetailed:1.2), (noir:0.4)
+1. Positive prompt for Professional photo: (dark shot:1.4), 80mm, soft light, sharp, exposure blend, medium shot, bokeh, (hdr:1.4), high contrast, (cinematic, teal and orange:0.85), (muted colors, dim colors, soothing tones:1.3), low saturation, (hyperdetailed:1.2), (noir:0.4)
 
-2. Negative prompt for Professional photo: neon, {NEprompt}, over saturated
+2. Negative prompt for Professional photo: neon, over saturated
 
 Natural skin:
-1. Positive prompt for natural skin: (natural skin texture, hyperrealism, soft light, sharp)
+1. Positive prompt for natural skin: (natural skin texture, hyperrealism, soft light, sharp: 1.1)
 
 2. Negative prompt for natural skin: (cgi:0.9), 3d, illustration, cartoon, (doll:0.9)
 
@@ -106,10 +106,10 @@ Details:
 Gloomy style:
 1. Positive prompt for gloomy style: complex background, stuff in the background, highly detailed, (gloomy:1.3), dark, dimmed, hdr, vignette, grimy, (slate atmosphere:0.8)
 
-2. Negative prompt for gloomy style: (depth of field:1.3), (bokeh:1.2), (blur), blurred, pink
+2. Negative prompt for gloomy style: (depth of field:1.3), (bokeh:1.2), (blur: 1.1), blurred, pink
 
 
-Cinematic style: 
+Cinematic style:
 1. Positive prompt for Cinematic style: (cinematic look:1.4), soothing tones, insane details, intricate details, hyperdetailed, low contrast, soft cinematic light, dim colors, exposure blend, hdr, faded, slate gray atmosphere
 
 2. Negative prompt for Cinematic style: grayscale, black and white, bw, monochrome
@@ -127,15 +127,15 @@ Engraving style:
 
 2. Negative prompt for Engraving style: colored
 
-Epic painting: 
-1. Positive prompt for Painting: rutkowski, intricate digital art, soothing tones, (cartoon:0.3), (art:1.4), epic realistic, faded, neutral colors, (hdr:1.4), (muted colors:1.4), (intricate), (artstation:1.5), dramatic, intricate details, (technicolor:0.9), detailed, intricate, cinematic, detailed
- 
-examples of works: 
+Epic painting:
+1. Positive prompt for Painting: rutkowski, intricate digital art, soothing tones, (cartoon:0.3), (art:1.4), epic realistic, faded, neutral colors, (hdr:1.4), (muted colors:1.4), (intricate: 1.1), (artstation:1.5), dramatic, intricate details, (technicolor:0.9), detailed, intricate, cinematic, detailed
+
+examples of works:
 
 realistic prompt: RAW photo, girl, 22 years old, upper body, selfie in a car, blue hoodie, (1girl: 1.1), (realistic: 1.1), (photo-realistic:1.5), inside a car, driving, lipstick, freckles, (short hair: 1.1), multicolor hair, necklace, (RAW photo, 8k uhd, film grain: 1.1), Sharp Eyeliner, Blush Eyeshadow With Thick Eyelashes, extremely delicate and beautiful, 8k, soft lighting, high quality, highres, sharp focus, extremely detailed, during the day, (sunlight on face: 1.1), beautiful detailed eyes, extremely detailed eyes and face, masterpiece, cinematic lighting, (high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, film grain, Fujifilm XT3
 
 realistic prompt: (close-up, editorial photograph of a 20 yo woman from the 1940's: 1.1), (highly detailed face:1.4) (smile:0.7) (background inside dark, moody, private study:1.3), POV, by lee jeffries, nikon d850, film stock photograph, 4 kodak portra 400, camera f1.6 lens, rich colors, hyper realistic, lifelike texture, dramatic lighting, cinestill 800, 
-realistic prompt: best quality, masterpiece, ultra high res, (photorealistic:1.4), raw photo, 1girl, (small breasts: 1.2), (nsfw: 1.2), (kneeling: 1.1), (from above: 1.1), (thick thighs: 1.1), (slim waist: 1.1), (blushing: 1.1), (face close-up: 1.1), (soft pearl lips: 1.1), (glossy lips: 1.1) This fusion character blends the mythical Phoenix with a skilled hacker immersed in a futuristic world. Her body is adorned with a sleek, form-fitting suit that mimics the fiery feathers of a phoenix, shimmering with vibrant hues of red, orange, and gold. She wears a high-tech visor that enhances her vision and grants her access to augmented reality interfaces. With her mastery of hacking and her ability to rise from the ashes of defeat, she is a formidable force in both the digital realm and the physical world. 
+realistic prompt: best quality, masterpiece, ultra high res, (photorealistic:1.4), raw photo, 1girl, (small breasts: 1.2), (nsfw: 1.2), (kneeling: 1.1), (from above: 1.1), (thick thighs: 1.1), (slim waist: 1.1), (blushing: 1.1), (face close-up: 1.1), (soft pearl lips: 1.1), (glossy lips: 1.1) This fusion character blends the mythical Phoenix with a skilled hacker immersed in a futuristic world. Her body is adorned with a sleek, form-fitting suit that mimics the fiery feathers of a phoenix, shimmering with vibrant hues of red, orange, and gold. She wears a high-tech visor that enhances her vision and grants her access to augmented reality interfaces. With her mastery of hacking and her ability to rise from the ashes of defeat, she is a formidable force in both the digital realm and the physical world.
 
 realistic prompt: fashion photography portrait of blue human avatar, in blue lush jungle with flowers and birds, 3d render, cgi, symetrical, octane render, 35mm, bokeh, (intricate details:1.12), hdr, (intricate details, hyperdetailed:1.15), (natural skin texture, hyperrealism, soft light, sharp:1.2)
 
@@ -307,7 +307,7 @@ Here is a list in my opinion of the most important artists:
 - Brian Oldham - a photographer who creates creatively or creatively. In stable diffusion, he helps to get professional, cinematic, creative photos or arts without additional tokens. Just write his name after the prompt.
 - Lisa Frank - an artist who makes mega colorful school supplies. In stable diffusion, she helps to get a bright and rainbow style with different animals, stars, hearts and other elements.
 - Simon Stalenhag - an artist who specializes in retro-futurism. In stable diffusion, he helps to get a cozy and major style with elements of old technologies, robots, rockets and other things from the past future.
-- Iryna Yermolova - an artist from Russia who creates magnificent works in oil. In stable diffusion, she helps to get a classic style of painting with realistic characters and landscapes. If you write her name with I (Irina), you can get a 3D effect on the art.
+- Iryna Yermolova - an artist from Russia who creates magnificent works in oil. In stable diffusion, she helps to get a classic style of painting with realistic characters and landscapes. If you write her name with I (Irina: 1.1), you can get a 3D effect on the art.
 - Todd Schorr - an American artist who works in the style of pop-surrealism. In stable diffusion, he helps to get Slavic motifs with khokhloma, ear-zagogulinki, molding and other elements of national color.
 - Alayna Lemmer - a star of art-station who creates magnificent landscapes, castles and magical creatures. In stable diffusion, she helps to get a fantasy style with detailed and colorful images. She is mandatory for any prompt in the genre of fantasy.
 - Andre Charles Boulle - a French artist who makes wood carvings and draws ornaments. In stable diffusion, he helps to get intrigue gold or golden effect on the art by adding low-res.
@@ -334,7 +334,7 @@ Device-iPhone X; CCTV; Nikon Z FX; Canon; Gopro; Fujifilm XT3 ;
 3D illustrations
 Stable diffusion can be used to create any 3D scene or object you can imagine!
 
-Isometric assets- isometric kitchen in a cutaway box, isometric,  tiny, cute, soft smooth lighting, soft colors, 100mm lens, 3d blender render;
+Isometric assets- isometric kitchen in a cutaway box, isometric, tiny, cute, soft smooth lighting, soft colors, 100mm lens, 3d blender render;
 
 Low Poly- kawaii, low poly, squirrel character, 3d isometric render, white background, ambient occlusion, unity engine;
 
@@ -348,7 +348,7 @@ Vector- living room, vector illustration, Flat Style, pastel color palette;
 
 Comic- Retro comic style artwork, benedict cumberbatch, highly detailed, comic book cover, symmetrical, vibrant;
 
-Caricature- Caricature art, spiderman, sitting , chair, drinking beer, on Charlie Hebdo;
+Caricature- Caricature art, spiderman, sitting, chair, drinking beer, on Charlie Hebdo;
 
 Propaganda- Poster, USSR propaganda poster, Eat Oreo!;
 
@@ -397,7 +397,7 @@ Vibrant keywords: Weirdcore, Acidwave, Dreamcore, Vaporwave;
 
 Gloomy:
 
-Liminal Space- Flooded, liminal space,underground city carpark, lighting with lensflares, photorealistic 8k, eerie;
+Liminal Space- Flooded, liminal space, underground city carpark, lighting with lensflares, photorealistic 8k, eerie;
 
 After Hours- After hours, stairs to the park, complex background, stuff in the background, highly detailed, (gloomy:1.3), dark, dimmed, hdr, vignette, grimy, (slate atmosphere:0.8);
 
