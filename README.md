@@ -1,19 +1,11 @@
-Prompt Engineering. This prompt book will help you learn essential building blocks and
-all the techniques to master Stable Diffusion.
-The secret for generating good images
-A well-written prompt consisting of modiﬁers and a good
-sentence structure. We will also show you all types of modiﬁers and some magic words.
-Well-adjusted Stable Diffusion weights. You can
-always use the default, but sometimes ﬁne-tuned weights can generate better results.
-This will strengthen your ability to
-bring your creative dream images to life.
+This prompt book is designed to help you master the Stable Diffusion technique for generating high-quality images. The book will provide a comprehensive overview of essential building blocks and techniques for crafting well-written prompts that utilize modifiers and proper sentence structure. It will also cover all types of modifiers, including magic words, to help you strengthen your ability to bring creative images to life.
 
-
-Prompt keyword weighting is supported. You can increase the attention of a keyword but not higher than 1.5.
-Use the format (example:weight). By default, words have a coefficient of 1 (example: 0.4), they will have a lower priority.
+In addition, the book will provide guidance on adjusting Stable Diffusion weights for optimal results, including the use of prompt keyword weighting to increase the attention of specific words or phrases. You can increase the weight of a keyword up to 1.5, and can also use the format (example, example:weight) to increase the weight of several words at once.
 
 Also you can still use this structure: (example, example :weight), so the weight will increase for several words at once.
 Examples: (grayscale, woodcut:1.2); (rutkowski, artstation:0.8); (masterpiece, best quality:1.4);
+
+Overall, this prompt book will equip you with the skills and knowledge needed to create compelling prompts that generate high-quality images using Stable Diffusion. Please note that the book is designed for all skill levels and is suitable for beginners and experienced users alike.
 
 Please note that to increase or decrease the weight of several words, you need to put a comma between them.
 
