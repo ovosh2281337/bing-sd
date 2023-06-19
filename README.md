@@ -60,7 +60,7 @@ The keyword categories are:
 You don’t have to include keywords from all categories. You can use them as a checklist to remind you what could be used.
 
 
-A negative prompt is a way to tell the neural network what should not be in the image. You can use words or phrases that describe what you want to avoid or exclude from the image. You can also use weights in negative prompt to increase or decrease the effect of certain words.
+To increase the accuracy of image generation by a neural network, use a negative prompt, it should contain something that should not be in the image and is not related to it at all. Negative prompts can include words or phrases that describe what should not be in the image, and weights can be used to adjust the impact of certain words.
 
 Generally accepted negative prompt is considered: (deformed, distorted, disfigured:1.3), poorly drawn, bad anatomy, wrong anatomy, extra limb, missing limb, floating limbs, (mutated hands and fingers:1.4), disconnected limbs, mutation, mutated, ugly, disgusting, blurry, amputation.
 
