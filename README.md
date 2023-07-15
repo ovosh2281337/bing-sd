@@ -59,65 +59,28 @@ The keyword categories are:
 
 You don’t have to include keywords from all categories. You can use them as a checklist to remind you what could be used.
 
-
-To increase the accuracy of image generation by a neural network, use a negative prompt, it should contain something that should not be in the image and is not related to it at all. Negative prompts can include words or phrases that describe what should not be in the image, and weights can be used to adjust the impact of certain words.
-
-Generally accepted negative prompt is considered: (deformed, distorted, disfigured:1.3), poorly drawn, bad anatomy, wrong anatomy, extra limb, missing limb, floating limbs, (mutated hands and fingers:1.4), disconnected limbs, mutation, mutated, ugly, disgusting, blurry, amputation.
-
-Realistic negative prompt: overexposed, (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime:1.3), text, close up, cropped, out of frame, worst quality, low quality, jpeg artifacts, ugly, duplicate, morbid, mutilated, extra fingers, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, blurry, dehydrated, bad anatomy, bad proportions, extra limbs, cloned face, disfigured, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck.
-
-For positive prompt and negative prompt, I have thought of universal keywords - styles. You may not find them in the examples because they are new. Almost every style has a Negative prompt. It is advisable to write it together with positive prompt.
-
-An example of how to use styles if you want to create a cat image in a Professional photo style:
-1. Positive prompt: (dark shot:1.4), 80mm, cat, soft light, sharp, exposure blend, medium shot, bokeh, (hdr:1.4), high contrast, (cinematic, teal and orange:0.85), (muted colors, dim colors, soothing tones:1.3), low saturation, (hyperdetailed:1.2), (noir:0.4)
-
-2. Negative prompt: neon, (deformed, distorted, disfigured:1.3), poorly drawn, bad anatomy, wrong anatomy, extra limb, missing limb, floating limbs, (mutated hands and fingers:1.4), disconnected limbs, mutation, mutated, ugly, disgusting, blurry, amputation, over saturated
-
-For example, if you want to generate an image of a girl with Natural skin:
-
-1. Positive prompt: girl, (natural skin texture, hyperrealism, soft light, sharp: 1.1)
-
-2. Negative prompt: (cgi:0.9), (deformed, distorted, disfigured:1.3), poorly drawn, bad anatomy, wrong anatomy, extra limb, missing limb, floating limbs, (mutated hands and fingers:1.4), disconnected limbs, mutation, mutated, ugly, disgusting, blurry, amputation, 3d, illustration, cartoon, (doll:0.9)
-
 Here are completely universal styles that you can combine and use in your prompt(I highly recommend using them!: 1.1):
 
 Professional photo:
-1. Positive prompt for Professional photo: (dark shot:1.4), 80mm, soft light, sharp, exposure blend, medium shot, bokeh, (hdr:1.4), high contrast, (cinematic, teal and orange:0.85), (muted colors, dim colors, soothing tones:1.3), low saturation, (hyperdetailed:1.2), (noir:0.4)
-
-2. Negative prompt for Professional photo: neon, over saturated
+prompt for Professional photo: (dark shot:1.4), 80mm, soft light, sharp, exposure blend, medium shot, bokeh, (hdr:1.4), high contrast, (cinematic, teal and orange:0.85), (muted colors, dim colors, soothing tones:1.3), low saturation, (hyperdetailed:1.2), (noir:0.4)
 
 Natural skin:
-1. Positive prompt for natural skin: (natural skin texture, hyperrealism, soft light, sharp: 1.1)
-
-2. Negative prompt for natural skin: (cgi:0.9), 3d, illustration, cartoon, (doll:0.9)
+prompt for natural skin: (natural skin texture, hyperrealism, soft light, sharp: 1.1)
 
 Details:
-1. Positive prompt Details: (intricate details:0.9), (hdr, hyperdetailed:1.2)
-
+prompt Details: (intricate details:0.9), (hdr, hyperdetailed:1.2)
 
 Gloomy style:
-1. Positive prompt for gloomy style: complex background, stuff in the background, highly detailed, (gloomy:1.3), dark, dimmed, hdr, vignette, grimy, (slate atmosphere:0.8)
-
-2. Negative prompt for gloomy style: (depth of field:1.3), (bokeh:1.2), (blur: 1.1), blurred, pink
-
+prompt for gloomy style: complex background, stuff in the background, highly detailed, (gloomy:1.3), dark, dimmed, hdr, vignette, grimy, (slate atmosphere:0.8)
 
 Cinematic style:
-1. Positive prompt for Cinematic style: (cinematic look:1.4), soothing tones, insane details, intricate details, hyperdetailed, low contrast, soft cinematic light, dim colors, exposure blend, hdr, faded, slate gray atmosphere
-
-2. Negative prompt for Cinematic style: grayscale, black and white, bw, monochrome
-
+prompt for Cinematic style: (cinematic look:1.4), soothing tones, insane details, intricate details, hyperdetailed, low contrast, soft cinematic light, dim colors, exposure blend, hdr, faded, slate gray atmosphere
 
 Horror cinematic style:
-1. Positive prompt for horror cinematic style: slate atmosphere, cinematic, dimmed colors, dark shot, muted colors, film grainy, lut, spooky
-
+prompt for horror cinematic style: slate atmosphere, cinematic, dimmed colors, dark shot, muted colors, film grainy, lut, spooky
 
 Cinematic art style:
-1. Positive prompt for Cinematic art style: art by greg rutkowski and artgerm, soft cinematic light, adobe lightroom, photolab, hdr, intricate, highly detailed, (depth of field:1.4)
-
-Engraving style:
-1. Positive prompt for Engraving style: (grayscale, woodcut:1.2), (etching:1.1), (engraving:0.2), {prompt}, detailed
-
-2. Negative prompt for Engraving style: colored
+prompt for Cinematic art style: art by greg rutkowski and artgerm, soft cinematic light, adobe lightroom, photolab, hdr, intricate, highly detailed, (depth of field:1.4)
 
 Epic painting:
 1. Positive prompt for Painting: rutkowski, intricate digital art, soothing tones, (cartoon:0.3), (art:1.4), epic realistic, faded, neutral colors, (hdr:1.4), (muted colors:1.4), (intricate: 1.1), (artstation:1.5), dramatic, intricate details, (technicolor:0.9), detailed, intricate, cinematic, detailed
