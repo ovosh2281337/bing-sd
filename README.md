@@ -180,6 +180,12 @@ just an example: end of the world, epic realistic, (hdr:1.4), (muted colors:1.4)
 
 anime prompt: (flat color:1.1), (colorful:1.3), (masterpiece:1.2), best quality, masterpiece, original, extremely detailed wallpaper, looking at viewer, 1girl, solo, floating colorful water
 
+anime prompt: (high quality:1.1), 1girl, a girl sitting on the ground, lean back with arms behind back, long hair, knees up, a futuristic flying object, wind, blue sky with clouds, bare midriff, pastel color, the water's edge, dutch angle
+
+anime prompt: a woman, (tattered shirt:1.1), tits out, blush, bus interior, crossed arms, (shoulder shrugs, shoulders up:1.2)
+
+anime prompt: big and full tree, beautiful lying 1girl, blowing dawn, realistic lighting, beatutiful stars, chromatic distortion, grass on ground, high depth field
+
 anime prompt: (masterpiece, best quality, ultra-detailed, best shadow: 1.1), (detailed background, dark fantasy: 1.1), (beautiful detailed face: 1.1), high contrast, (best illumination, an extremely delicate and beautiful: 1.1), (cinematic light: 1.2), colorful, hyper detail, dramatic light, intricate details, (1girl, solo, black hair, sharp face, low twintails, red eyes, hair between eyes, dynamic angle: 1.1), blood splatter, swirling black light around the character, depth of field, black light particles, (broken glass: 1.1), magic circle
 
 anime prompt: (masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.2), (1girl: 1.1), extreme detailed, (fractal art:1.5), (cherry flowers in fractal art:1.3), colorful, highest detailed, upper body, purple hair, purple eyes, large breasts, kimono, bangs, sash, mole, obi, tassel, blush, hair ornament
